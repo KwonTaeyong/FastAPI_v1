@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+python-dotenv
+aiomysql 
+passlib
+requests-unixsocket
+docker
